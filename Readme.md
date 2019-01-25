@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/MalusBB/flashcards.svg?branch=master)](https://travis-ci.com/MalusBB/flashcards)
